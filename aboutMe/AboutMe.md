@@ -1,5 +1,5 @@
-## Thomas Maghanga
-## Data Scientist
+## Name : Thomas Maghanga
+## Title : Data Scientist
 
 ### Github link : https://github.com/maghanga
 
